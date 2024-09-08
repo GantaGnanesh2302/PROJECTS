@@ -1,0 +1,4 @@
+TSK_930020, Legal Consultation, True
+TSK_807457, Documentation Review, True
+TSK_227945, Client Meeting, False
+TSK_267055, Client Meeting, False, None
